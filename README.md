@@ -4,6 +4,7 @@
 🎓 A Student passionate about Software Development.
 
 💻 Currently pursuing a Bachelors of Science in Applied Mathematics and Computer science.
+
 🛠️ Skills:  
 - Programming: Python, JavaScript, C++  
 - Frameworks: Django, Bootstrap
