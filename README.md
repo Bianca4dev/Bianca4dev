@@ -9,6 +9,7 @@
 - Programming: Python, JavaScript, C++  
 - Frameworks: Django, Bootstrap
 - Tools: Git, VS Code
+- 
 🌱 Currently learning: C++
 
 <!--
