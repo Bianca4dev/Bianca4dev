@@ -6,7 +6,7 @@
 💻 Currently pursuing a Bachelors of Science in Applied Mathematics and Computer science.
 
 🛠️ Skills:  
-- Programming: Python, JavaScript, C++  
+- Programming: Python, C#, C++  
 - Frameworks: Django, Bootstrap
 - Tools: Git, VS Code
   
